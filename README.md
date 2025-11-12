@@ -11,13 +11,13 @@ Visuals: Screenshots of dashboard from Excel and Power BI
 
 # Key Insights
 Technology category leads with 37% sales.
-![Sales by Category](./Visuals/Sales_by_category.png).
+![Sales by category](Supersore_sales_analysis/Visuals/Sales_by_category.png).
 Copiers are most profitable while Table show losses
-![Profit by sub-Category](./Visuals/Sum_of_profit_by_sub_category.png).
+![Profit by sub-Category](Supersore_sales_analysis/Visuals/Sum_of_profit_by_sub_category.png).
 Peak month sale is on November.
-![Monthly trend](./Visuals/Sum_of_sales_by_month.png).
+![Monthly trend](Supersore_sales_analysis/Visuals/Sum_of_sales_by_month.png).
 Increase in discount reduce profit margin
-![Discount impact on profit](./Visuals/Profit_by_Discount.png).
+![Discount impact on profit](Supersore_sales_analysis/Visuals/Profit_by_Discount.png).
 
 # Connect with me
 Email: ukahaoluchi84@gmail.com
