@@ -10,10 +10,14 @@ Power_BI_analysis: Interactive visuals and dashboard
 Visuals: Screenshots of dashboard from Excel and Power BI
 
 # Key Insights
-Technology category leads with 37% sales
+Technology category leads with 37% sales.
+![Sales by Category](./Visuals/Sales by category.png).
 Copiers are most profitable while Table show losses
-Peak month sale is on November
+![Profit by sub-Category](./Visuals/Sum of profit by sub-category.png).
+Peak month sale is on November.
+![Monthly trend](./Visuals/Sum of sales by month.png).
 Increase in discount reduce profit margin
+![Discount impact on profit](./Visuals/Profit by Discount.png).
 
 # Connect with me
 Email: ukahaoluchi84@gmail.com
