@@ -10,7 +10,7 @@ Power_BI_analysis: Interactive visuals and dashboard
 Visuals: Screenshots of dashboard from Excel and Power BI
 
 # Key Insights
-Technology category leads with 37% sales.
+Technology category leads with 36.4% sales.
 ![Sales by category](Supersore_sales_analysis/Visuals/Sales_by_category.png).
 Copiers are most profitable while Table show losses
 ![Profit by sub-Category](Supersore_sales_analysis/Visuals/Sum_of_profit_by_sub_category.png).
